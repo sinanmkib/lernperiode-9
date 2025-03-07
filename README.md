@@ -10,3 +10,9 @@ Ich habe an diesem Morgen mich mit der Abgabe zum modul 295 befasst. dabie habe 
 
 # 7.3
 Ich werde eine Projektidee fassen und Am Modul 114 arbeiten. spezifisch der Auftrag 1729.
+
+reflexion: Ich werde nun eine Website machen, um meine Projekte auszustellen, zb für die bewerbung.
+Auch habe ich den auftrag vom Modul 114 erledigt.
+
+# 14.3
+Ich werde mit dem projekt beginnen und auch wieder einen auftrag vom modul 114 erledigen
