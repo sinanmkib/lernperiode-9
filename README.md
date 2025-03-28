@@ -21,3 +21,9 @@ Der Auftrag ging länger als gedacht und ich habe noch ein Auftrag aus dem Modul
 
 # 21.3
 Ich werde mit dem Projekt starten sowie nochmals den auftrag von 114 erledigen
+
+Reflexion>
+Ich habe ganz viele Moodletests für das Modul 114 erledigt, Zusätzlich habe ich auch mit den Aufträgen für Montag begonnen. spezifisch Auftrag 1732 und 1735. Diese gingen über die Verschlüsselung innerhalb von Mails, was sehr gut lief.
+
+# 28.3
+Ich werde das Scrum Modul rekapitulieren und auch noch die Machine learning Aufträge Abschliessen
