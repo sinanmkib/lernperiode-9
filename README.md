@@ -27,3 +27,6 @@ Ich habe ganz viele Moodletests für das Modul 114 erledigt, Zusätzlich habe ic
 
 # 28.3
 Ich werde das Scrum Modul rekapitulieren und auch noch die Machine learning Aufträge Abschliessen
+
+# 4.4
+Ich habe meinen MAchine Laerning auftrag Abgeschlosse. Ich hatte zuerst Probleme mit dem Abspeichern der Datei und mit dem Laufenlassen des Kernels, welche ich aber spter beheben konnte. Ich habe zusätzlich auch einem Kollegen bei seinen Problemen geholfen. Ich habe noch kurz scrum angeschaut, aber das machine learning stand im Mittelpunkt
